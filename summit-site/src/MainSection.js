@@ -11,7 +11,41 @@ function MainSection() {
         description: "Introduction to the summit themes and objectives.",
         color: "#FFD700",
       },
-      // ... more agenda items for JAN 30
+      {
+        title: 'Future of Work Panel #1',
+        time: '9:30 AM',
+        speaker: 'John Smith',
+        description: 'Panel of 3 guests will be talking about the future of work',
+        color: '#FFD700'
+      },
+      {
+        title: 'Speed Bingo Fun!',
+        time: '10:30 AM',
+        //speaker: 'John Smith',
+        description: 'Test your knowledge on topics of Urban Work',
+        color: '#FFD700'
+      },
+      {
+        title: 'Coffee Break',
+        time: '11:00 AM',
+        //speaker: 'John Smith',
+        //description: 'Panel of 3 guests will be talking about the future of work',
+        color: '#FFD700'
+      },
+      {
+        title: 'Workshop A: Where are we at today?',
+        time: '11:15 AM',
+        speaker: 'John Smith',
+        description: 'Workshop covering some range of topics for delegates',
+        color: '#FFD700'
+      },
+      {
+        title: 'Lunch',
+        time: '12:30 AM',
+        //speaker: 'John Smith',
+        //description: 'Panel of 3 guests will be talking about the future of work',
+        color: '#FFD700'
+      },
     ],
     "JAN 31": [
       {
