@@ -1,15 +1,18 @@
 import React from 'react';
-import { AppBar, Toolbar, Typography, Button } from '@mui/material';
+import { AppBar, Toolbar, Button } from '@mui/material';
+import LinkIcon from '@mui/icons-material/Link';
+
+ 
 
 function Header() {
   return (
-    <AppBar position="static">
+    <AppBar position="static" sx={{backgroundColor: '#1b1b1b'}}>
       <Toolbar>
-        <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-          <img src="/logo.png" alt="Logo" style={{ height: '50px' }} />
-        </Typography>
-        <Button color="inherit" href="https://yourwebsite.com">
-          Visit Website
+        <div style={{ flexGrow: 1 }}>
+          <img src={process.env.PUBLIC_URL + '/logo.png'} alt="Logo" style={{ height: '50px' }} />
+        </div>
+        <Button color="inherit" href="https://youthfulcities.com" sx={{ textTransform: 'none' }} startIcon={<LinkIcon />}>
+          youthfulcities.com
         </Button>
       </Toolbar>
     </AppBar>

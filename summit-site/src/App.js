@@ -1,24 +1,20 @@
 import React from 'react';
 import Header from './Header';
-import { Typography } from '@mui/material';
 import MainSection from './MainSection';
+import Titles from './Titles';
 
 function App() {
+  const appStyle = {
+    backgroundColor: '#253D88', 
+    color: '#fff', 
+    minHeight: '100vh', // Ensures the content takes at least the height of the viewport
+  };
+
   return (
-    <div>
+    <div style={appStyle}>
       <Header />
-
-      <div style={{ margin: '20px' }}>
-        <Typography variant="subtitle1" gutterBottom>
-          Small Title
-        </Typography>
-        <Typography variant="h3" gutterBottom>
-          Big Title
-        </Typography>
-      </div>
-
+      <Titles />
       <MainSection />
-
     </div>
   );
 }
