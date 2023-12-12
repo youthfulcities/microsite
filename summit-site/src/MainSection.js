@@ -3,50 +3,105 @@ import { Box, Button, Card, Grid, Typography } from "@mui/material";
 
 function MainSection() {
   const cardSets = {
+    //DAY 1
     "JAN 30": [
       {
-        title: "Opening Remarks",
-        time: "9:00 AM",
-        speaker: "Jane Doe",
-        description: "Introduction to the summit themes and objectives.",
-        color: "#FFD700",
+        title: "Breakfast / Check-In",
+        time: "8:00 AM",
+        description: "Come down to the Centre for Dialogue for free breakfast and check-in to get your badges ahead of the Summit.",
+        color: "#F6D9D7",
       },
       {
-        title: 'Future of Work Panel #1',
+        title: "Welcome Presentation",
+        time: "9:00 AM",
+        speaker: "Jane Doe",
+        description: "Land acknowledgement with Name Lastname, as well as opening remarks from Youthful Cities co-founder, Robert Barnard.",
+        color: "#F6D9D7",
+      },
+      {
+        title: 'Navigating the Work Ecosystem',
         time: '9:30 AM',
-        speaker: 'John Smith',
-        description: 'Panel of 3 guests will be talking about the future of work',
-        color: '#FFD700'
+        speaker: 'John Smith, Jane Doe, George Ball',
+        description: 'Join our panel discussion on the work ecosystem',
+        color: '#B8D98D'
       },
       {
         title: 'Speed Bingo Fun!',
         time: '10:30 AM',
-        //speaker: 'John Smith',
-        description: 'Test your knowledge on topics of Urban Work',
-        color: '#FFD700'
+        description: 'Test your knowledge on topics of Urban Work!',
+        color: '#F6D9D7'
       },
       {
         title: 'Coffee Break',
         time: '11:00 AM',
-        //speaker: 'John Smith',
-        //description: 'Panel of 3 guests will be talking about the future of work',
-        color: '#FFD700'
+        color: '#FBD166'
       },
       {
-        title: 'Workshop A: Where are we at today?',
+        title: 'Where are we AT today? Part 1 - Workshop',
         time: '11:15 AM',
         speaker: 'John Smith',
-        description: 'Workshop covering some range of topics for delegates',
-        color: '#FFD700'
+        description: 'A data-driven workshop utilizes pre-summit information and resources for collaborative group work, defining the current state of work and opportunities.',
+        color: '#F2695D'
       },
       {
-        title: 'Lunch',
+        title: 'Lunch Break',
         time: '12:30 AM',
-        //speaker: 'John Smith',
-        //description: 'Panel of 3 guests will be talking about the future of work',
-        color: '#FFD700'
+        color: '#FBD166'
+      },
+      {
+        title: 'Attractions in Cities',
+        time: '1:30 PM',
+        speaker: 'John Smith, Jane Doe, George Ball',
+        description: 'Panel discussion on the 5 main attractions in cities',
+        color: '#B8D98D'
+      },
+      {
+        title: 'Coffee Break',
+        time: '2:30 PM',
+        color: '#FBD166'
+      },
+      {
+        title: 'Where are we AT? Part 1 - Presentations',
+        time: '3:00 PM',
+        speaker: 'John Smith',
+        description: 'Present as a group your findings during the earlier workshop on where the city is AT today',
+        color: '#F2695D'
+      },
+      {
+        title: 'Where are we AT? Part 2 - Workshop',
+        time: '3:30 PM',
+        speaker: 'John Smith',
+        description: 'Present as a group your findings during the earlier workshop on where the city is AT today',
+        color: '#F2695D'
+      },
+      {
+        title: 'Where are we AT? Part 2 - Presentations',
+        time: '4:30 PM',
+        speaker: 'John Smith',
+        description: 'Present as a group your findings during the earlier workshop on where the city is AT today',
+        color: '#F2695D'
+      },
+      {
+        title: 'Where are we AT? - Wrap Up',
+        time: '5:00 PM',
+        speaker: 'John Smith',
+        description: 'Present as a group your findings during the earlier workshop on where the city is AT today',
+        color: '#F2695D'
+      },
+      {
+        title: 'End of Day 1 Wrap Up',
+        time: '5:15 PM',
+        speaker: 'John Smith',
+        description: 'Present as a group your findings during the earlier workshop on where the city is AT today',
+        color: '#F6D9D7'
+      },
+      {
+        title: 'Dinner & Arts Presentation',
+        time: '6:00 PM',
+        color: '#FBD166'
       },
     ],
+    //DAY 2
     "JAN 31": [
       {
         title: "Panel Discussion: Future of Tech",
@@ -57,6 +112,7 @@ function MainSection() {
       },
       // ... more agenda items for JAN 31
     ],
+    //DAY 3
     "FEB 1": [
       {
         title: "Workshop on AI Ethics",
