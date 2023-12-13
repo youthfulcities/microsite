@@ -214,27 +214,30 @@ function MainSection() {
         >
           FEB 1
         </Button>
-      </Box>
-      <Box overflow="auto" height="560px">
-        <Grid container spacing={3}>
+      </Box >
+      <Box overflow="auto" height="60vh" >
+        <Grid container spacing={3} style={{flex: 1, alignItems: 'stretch' }}>
           {activeCards.map((card, index) => (
-            <Grid item xs={12} key={index}>
+            <Grid item xs={12} sm={6} md={4} lg={3} key={index}>
               <Card
                 variant="outlined"
                 style={{
                   backgroundColor: card.color,
                   borderRadius: "12px",
-                  maxWidth: "370px",
+                  maxWidth: "95%",
                   margin: "0 auto",
-                  maxHeight: "150px",
+                  height: "100%",  
+                  border: "1px solid #CAC4D0" 
                 }}
               >
                 <Typography variant="h6" component="div" p={2}>
                   {card.time} - {card.title}
                 </Typography>
-                <Typography variant="body2" component="div" p={2}>
-                  {card.description}
-                </Typography>
+                {card.description && (
+                  <Typography variant="body2" component="div" p={2} style= {{backgroundColor: "#fff"}}>
+                    {card.description}
+                  </Typography>
+                )}
               </Card>
             </Grid>
           ))}
