@@ -40,7 +40,7 @@ function MainSection() {
         title: 'Where are we AT today? Part 1 - Workshop',
         time: '11:15 AM',
         speaker: 'John Smith',
-        description: 'A data-driven workshop utilizes pre-summit information and resources for collaborative group work, defining the current state of work and opportunities.',
+        description: 'A data-driven workshop utilizing pre-summit information and resources for collaborative group work, defining the current state of work and opportunities.',
         color: '#F2695D'
       },
       {
@@ -104,60 +104,154 @@ function MainSection() {
     //DAY 2
     "JAN 31": [
       {
-        title: "Panel Discussion: Future of Tech",
-        time: "10:00 AM",
-        speaker: "John Smith, Emily Johnson",
-        description: "A discussion on the future trends in technology.",
-        color: "#7FFFD4",
+        title: "Breakfast / Check-In",
+        time: "8:00 AM",
+        description: "Come down to the Centre for Dialogue for free breakfast and check-in for Day 2 of the Summit.",
+        color: "#F6D9D7",
       },
-      // ... more agenda items for JAN 31
+      {
+        title: "Day 2 Overview",
+        time: "9:00 AM",
+        speaker: "Jane Doe",
+        description: "Going over the agenda and expectations for Day 2",
+        color: "#F6D9D7",
+      },
+      {
+        title: 'Where do we want to BE? Part 1 - Workshop',
+        time: '9:15 AM',
+        speaker: 'John Smith',
+        description: 'Creative vision session with your groups to expand on opportunities for the future of work and cities.',
+        color: '#F2695D'
+      },
+      {
+        title: 'Coffee Break',
+        time: '10:30 AM',
+        color: '#FBD166'
+      },
+      {
+        title: 'What can we CREATE? Part 1 - Ideation',
+        time: '11:00 AM',
+        //speaker: 'John Smith',
+        description: 'Design thinking session to organize possible ideas based on opportunity areas from the AT and BE sessions.',
+        color: '#F2695D'
+      },
+      {
+        title: "What's Up With Work Lately?",
+        time: "12:30 PM",
+        speaker: "w/ Hon. Andrew Mercier",
+        description: "A discussion on the future trends in technology with the Minister of State for Workforce Development.",
+        color: "#B8D98D",
+      },
+      {
+        title: 'Lunch',
+        time: '1:00 PM',
+        color: '#FBD166'
+      },
+      {
+        title: 'What can we CREATE? Part 2 - Clustering',
+        time: '11:00 AM',
+        //speaker: 'John Smith',
+        description: 'Idea clustering session to enhance ideas to early stage concepts.',
+        color: '#F2695D'
+      },
+      {
+        title: 'Coffee Break',
+        time: '3:30 PM',
+        color: '#FBD166'
+      },
+      {
+        title: 'What can we CREATE? Part 3 - Voting',
+        time: '11:00 AM',
+        //speaker: 'John Smith',
+        description: 'Collective voting session to form more defined concepts and form groups based on concepts.',
+        color: '#F2695D'
+      },
+      {
+        title: 'End of Day 2 Wrap Up',
+        time: '5:15 PM',
+        speaker: 'John Smith',
+        description: 'Summary of Day 2 and overview of Day 3',
+        color: '#F6D9D7'
+      },
+      {
+        title: 'Open Dinner Hours',
+        time: '6:00 PM',
+        description:'Free time for you to grab dinner or explore the city!',
+        color: '#FBD166'
+      },
     ],
     //DAY 3
     "FEB 1": [
       {
-        title: "Workshop on AI Ethics",
-        time: "2:00 PM",
-        speaker: "Michael Brown",
-
-        color: "#FF69B4",
-      },
-
-      {
-        title: "Workshop on AI Ethics",
-        time: "2:00 PM",
-        speaker: "Michael Brown",
-        description: "Interactive workshop on ethical considerations in AI.",
-        color: "#FF69B4",
+        title: "Breakfast / Check-In",
+        time: "8:00 AM",
+        description: "Come down to the Centre for Dialogue for free breakfast and check-in for Day 3 of the Summit.",
+        color: "#F6D9D7",
       },
       {
-        title: "Workshop on AI Ethics",
-        time: "2:00 PM",
-        speaker: "Michael Brown",
-        description: "Interactive workshop on ethical considerations in AI.",
-        color: "#FF69B4",
+        title: "Day 3 Overview",
+        time: "9:00 AM",
+        description: "Going over the agenda and expectations for Day 3",
+        color: "#F6D9D7",
       },
       {
-        title: "Workshop on AI Ethics",
-        time: "2:00 PM",
-        speaker: "Michael Brown",
-        description: "Interactive workshop on ethical considerations in AI.",
-        color: "#FF69B4",
+        title: "What's Up With Work Lately?",
+        time: "9:15 AM",
+        speaker: "w/ Youth Leader",
+        description: "TBD.",
+        color: "#B8D98D",
       },
       {
-        title: "Workshop on AI Ethics",
-        time: "2:00 PM",
-        speaker: "Michael Brown",
-        description: "Interactive workshop on ethical considerations in AI.",
-        color: "#FF69B4",
+        title: 'Coffee Break',
+        time: '10:00 AM',
+        color: '#FBD166'
       },
       {
-        title: "Workshop on AI Ethics",
-        time: "2:00 PM",
-        speaker: "Michael Brown",
-
-        color: "#FF69B4",
+        title: 'What can DO next? Part 1 - Brainstorm',
+        time: '11:00 AM',
+        description: 'Group work to identify resources and brainstorm for project proposal to showcase with a medium of choice.',
+        color: '#F2695D'
       },
-      // ... more agenda items for FEB 1
+      {
+        title: 'Lunch',
+        time: '12:00 PM',
+        color: '#FBD166'
+      },
+      {
+        title: 'What can DO next? Part 2 - Finalize',
+        time: '1:30 PM',
+        description: 'Finalize your proposals and create your pitches with help from mentors.',
+        color: '#F2695D'
+      },
+      {
+        title: 'Coffee Break',
+        time: '3:30 PM',
+        color: '#FBD166'
+      },
+      {
+        title: "LinkedIn Spotlight",
+        time: "3:45 PM",
+        speaker: "w/ LinkedIn Staff",
+        description: "TBD.",
+        color: "#B8D98D",
+      },
+      {
+        title: 'Pitch Competition',
+        time: '4:30 PM',
+        description: 'Each team will present their pitch through a science fair model or to an expert panel.',
+        color: '#F2695D'
+      },
+      {
+        title: 'Winning Projects',
+        time: '6:15 PM',
+        description: 'The winning projects will be announced.',
+        color: '#F2695D'
+      },
+      {
+        title: 'Dinner Celebration',
+        time: '7:00 PM',
+        color: '#FBD166'
+      },
     ],
   };
 
@@ -186,8 +280,6 @@ function MainSection() {
             backgroundColor: activeButton === "JAN 30" ? "#F2695D" : "#253D88",
             outline: "none",
             boxShadow: "none",
-            
-            
           }}
         >
           JAN 30
@@ -231,11 +323,13 @@ function MainSection() {
                 }}
               >
                 <Typography variant="h6" component="div" p={2}>
-                  {card.time} - {card.title}
+                  {card.time} — {card.title}
                 </Typography>
+                
                 {card.description && (
-                  <Typography variant="body2" component="div" p={2} style= {{backgroundColor: "#fff"}}>
-                    {card.description}
+                  <Typography variant="body2" component="div" p={2} style= {{backgroundColor: "#fff", wordWrap: "break-word"}}>
+                    <span style={{ fontWeight: 'bold' }}>{card.speaker}</span> —
+                    <span> {card.description} </span>
                   </Typography>
                 )}
               </Card>
