@@ -24,12 +24,7 @@ const MainSection = () => {
 
     return (
         <Box>
-            <Box
-                display="flex"
-                justifyContent="space-around"
-                m={2}
-                marginBottom="30px"
-            >
+            <Box display="flex" justifyContent="space-around" my={3} mx={2}>
                 <Button
                     variant="contained"
                     onClick={() => handleButtonClick(0)}
@@ -71,12 +66,17 @@ const MainSection = () => {
                     handleSwipe(current, prev, meta)
                 }
             >
+                {/* TODO: Adjust height of container based on viewport size */}
                 {cardSets.map((cardSet) => (
-                    <Box key={uuidv4()} overflow="auto" height="62vh">
+                    <Box
+                        key={uuidv4()}
+                        overflow="auto"
+                        sx={{ maxHeight: '66vh' }}
+                    >
                         <Grid
                             ref={ref}
                             container
-                            spacing={2}
+                            spacing={1.5}
                             style={{ flex: 1, alignItems: 'stretch' }}
                         >
                             {cardSet.map((card) => (
@@ -91,19 +91,22 @@ const MainSection = () => {
                                     <Card
                                         variant="outlined"
                                         style={{
-                                            backgroundColor: card.color,
-
                                             borderRadius: '12px',
                                             maxWidth: '95%',
                                             margin: '0 auto',
                                             height: '100%',
-                                            border: '1px solid #CAC4D0',
+                                            backgroundColor: card.description
+                                                ? '#fff'
+                                                : card.color,
                                         }}
                                     >
                                         <Typography
                                             variant="h6"
                                             component="div"
                                             p={2}
+                                            sx={{
+                                                backgroundColor: card.color,
+                                            }}
                                         >
                                             {card.time} - {card.title}
                                         </Typography>

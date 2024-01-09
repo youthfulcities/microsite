@@ -2,7 +2,7 @@ import { Typography } from '@mui/material'
 import React from 'react'
 
 const Header = () => (
-    <div style={{ margin: '20px', marginBottom: '40px' }}>
+    <div style={{ margin: '20px' }}>
         <Typography variant="subtitle1" gutterBottom>
             VANCOUVER URBAN WORK SUMMIT
         </Typography>
