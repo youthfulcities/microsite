@@ -16,7 +16,7 @@ const MainSection = () => {
     }
 
     const handleSwipe = (current, prev, meta) => {
-        console.log(current, prev, meta)
+        // ignore changes triggered by button clicks to prevent buggy behaviour
         if (meta.reason === 'swipe') {
             setStep(current)
         }
@@ -72,11 +72,11 @@ const MainSection = () => {
                 }
             >
                 {cardSets.map((cardSet) => (
-                    <Box key={uuidv4()} overflow="auto" height="60vh">
+                    <Box key={uuidv4()} overflow="auto" height="62vh">
                         <Grid
                             ref={ref}
                             container
-                            spacing={3}
+                            spacing={2}
                             style={{ flex: 1, alignItems: 'stretch' }}
                         >
                             {cardSet.map((card) => (
