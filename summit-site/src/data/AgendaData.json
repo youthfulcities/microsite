@@ -1,7 +1,7 @@
 [
     [
         {
-            "title": "Breakfast / Check-In",
+            "title": "Breakfast & Check-In",
             "time": "8:00 AM",
             "description": "Come down to the Centre for Dialogue for free breakfast and check-in to get your badges ahead of the Summit.",
             "color": "#F6D9D7"
@@ -9,15 +9,15 @@
         {
             "title": "Welcome Presentation",
             "time": "9:00 AM",
-            "speaker": "Jane Doe",
-            "description": "Land acknowledgement with Name Lastname, as well as opening remarks from Youthful Cities co-founder, Robert Barnard.",
+            "speaker": "MC",
+            "description": "Land acknowledgement and overview of the Summit program.",
             "color": "#F6D9D7"
         },
         {
-            "title": "Navigating the Work Ecosystem",
+            "title": "City Pulse: What Makes A City Attractive",
             "time": "9:30 AM",
-            "speaker": "John Smith, Jane Doe, George Ball",
-            "description": "Join our panel discussion on the work ecosystem",
+            "speaker": "Aftab Erfan & panelists",
+            "description": "A panel discussion on the the 5 main work attractions in cities + Q & A.",
             "color": "#B8D98D"
         },
         {
@@ -28,13 +28,12 @@
         },
         {
             "title": "Coffee Break",
-            "time": "11:00 AM",
+            "time": "11:15 AM",
             "color": "#FBD166"
         },
         {
-            "title": "Where are we AT today? Part 1 - Workshop",
-            "time": "11:15 AM",
-            "speaker": "John Smith",
+            "title": "Workshop: Part A - Where are we AT today? (1)",
+            "time": "11:30 AM",
             "description": "A data-driven workshop utilizing pre-summit information and resources for collaborative group work, defining the current state of work and opportunities.",
             "color": "#F2695D"
         },
@@ -44,10 +43,10 @@
             "color": "#FBD166"
         },
         {
-            "title": "Attractions in Cities",
+            "title": "Redefining the Future: A deep dive into the work ecosystem in Canada",
             "time": "1:30 PM",
-            "speaker": "John Smith, Jane Doe, George Ball",
-            "description": "Panel discussion on the 5 main attractions in cities",
+            "speaker": "George Benson & panelists",
+            "description": "A panel discussion on the the 5 main work dimensions in cities + Q & A.",
             "color": "#B8D98D"
         },
         {
@@ -56,31 +55,31 @@
             "color": "#FBD166"
         },
         {
-            "title": "Where are we AT? Part 1 - Presentations",
+            "title": "Workshop: Part A - Where are we AT today? (1)",
             "time": "3:00 PM",
             "speaker": "John Smith",
-            "description": "Present as a group your findings during the earlier workshop on where the city is AT today",
+            "description": "Report back presentations from groups.",
             "color": "#F2695D"
         },
         {
-            "title": "Where are we AT? Part 2 - Workshop",
+            "title": "Workshop: Part A- Where are we AT today? (2)",
             "time": "3:30 PM",
             "speaker": "John Smith",
-            "description": "Present as a group your findings during the earlier workshop on where the city is AT today",
+            "description": "Group work using the panel info, data and resources provided in the pre-summit phase to define the current state-of-work and opportunities.",
             "color": "#F2695D"
         },
         {
-            "title": "Where are we AT? Part 2 - Presentations",
+            "title": "Workshop: Part A- Where are we AT today? (2)",
             "time": "4:30 PM",
             "speaker": "John Smith",
-            "description": "Present as a group your findings during the earlier workshop on where the city is AT today",
+            "description": "Report back presentations from groups.",
             "color": "#F2695D"
         },
         {
             "title": "Where are we AT? - Wrap Up",
             "time": "5:00 PM",
             "speaker": "John Smith",
-            "description": "Present as a group your findings during the earlier workshop on where the city is AT today",
+            "description": "Voting opportunities to move onto the next stages.",
             "color": "#F2695D"
         },
         {
@@ -91,14 +90,15 @@
             "color": "#F6D9D7"
         },
         {
-            "title": "Dinner & Arts Presentation",
+            "title": "Dinner",
             "time": "6:00 PM",
+            "description": "Choose your own adventure dinner, spend this time how you would like!",
             "color": "#FBD166"
         }
     ],
     [
         {
-            "title": "Breakfast / Check-In",
+            "title": "Breakfast & Check-In",
             "time": "8:00 AM",
             "description": "Come down to the Centre for Dialogue for free breakfast and check-in for Day 2 of the Summit.",
             "color": "#F6D9D7"
@@ -106,15 +106,14 @@
         {
             "title": "Day 2 Overview",
             "time": "9:00 AM",
-            "speaker": "Jane Doe",
             "description": "Going over the agenda and expectations for Day 2",
             "color": "#F6D9D7"
         },
         {
-            "title": "Where do we want to BE? Part 1 - Workshop",
+            "title": "Workshop: Part B - Where do we want to BE?",
             "time": "9:15 AM",
             "speaker": "John Smith",
-            "description": "Creative vision session with your groups to expand on opportunities for the future of work and cities.",
+            "description": "Creative visioning session with group work to expand on the voted opportunities for the future of work and cities.",
             "color": "#F2695D"
         },
         {
@@ -123,16 +122,16 @@
             "color": "#FBD166"
         },
         {
-            "title": "What can we CREATE? Part 1 - Ideation",
+            "title": "Workshop: Part C - What can we CREATE?(1)",
             "time": "11:00 AM",
-            "description": "Design thinking session to organize possible ideas based on opportunity areas from the AT and BE sessions.",
+            "description": "Session to flesh out and cluster all possible ideas based on opportunity areas coming from Parts A and B.",
             "color": "#F2695D"
         },
         {
-            "title": "What's Up With Work Lately?",
+            "title": "Guest Speaker",
             "time": "12:30 PM",
             "speaker": "w/ Hon. Andrew Mercier",
-            "description": "A discussion on the future trends in technology with the Minister of State for Workforce Development.",
+            "description": "A talk by Hon. Andrew Mercier, Minister of State for Workforce Development + Q & A with audience.",
             "color": "#B8D98D"
         },
         {
@@ -141,9 +140,9 @@
             "color": "#FBD166"
         },
         {
-            "title": "What can we CREATE? Part 2 - Clustering",
-            "time": "11:00 AM",
-            "description": "Idea clustering session to enhance ideas to early stage concepts.",
+            "title": "Workshop: Part C- What can we CREATE?(2)",
+            "time": "2:30 PM",
+            "description": "Group work to combine clusters of ideas and to enhance ideas to early stage concepts.",
             "color": "#F2695D"
         },
         {
@@ -152,20 +151,19 @@
             "color": "#FBD166"
         },
         {
-            "title": "What can we CREATE? Part 3 - Voting",
-            "time": "11:00 AM",
+            "title": "Workshop: Part C - What can we CREATE?(3)",
+            "time": "3:45 PM",
             "description": "Collective voting session to form more defined concepts and form groups based on concepts.",
             "color": "#F2695D"
         },
         {
             "title": "End of Day 2 Wrap Up",
             "time": "5:15 PM",
-            "speaker": "John Smith",
-            "description": "Summary of Day 2 and overview of Day 3",
+            "description": "Summary of the day and overview of the next day.",
             "color": "#F6D9D7"
         },
         {
-            "title": "Open Dinner Hours",
+            "title": "Dinner",
             "time": "6:00 PM",
             "description": "Free time for you to grab dinner or explore the city!",
             "color": "#FBD166"
@@ -173,9 +171,8 @@
     ],
     [
         {
-            "title": "Breakfast / Check-In",
+            "title": "Breakfast & Check-In",
             "time": "8:00 AM",
-            "description": "Come down to the Centre for Dialogue for free breakfast and check-in for Day 3 of the Summit.",
             "color": "#F6D9D7"
         },
         {
@@ -185,9 +182,9 @@
             "color": "#F6D9D7"
         },
         {
-            "title": "What's Up With Work Lately?",
+            "title": "Guest Speaker",
             "time": "9:15 AM",
-            "speaker": "w/ Youth Leader",
+            "speaker": "w/ Youth Leader + Q & A",
             "description": "TBD.",
             "color": "#B8D98D"
         },
@@ -197,9 +194,9 @@
             "color": "#FBD166"
         },
         {
-            "title": "What can DO next? Part 1 - Brainstorm",
-            "time": "11:00 AM",
-            "description": "Group work to identify resources and brainstorm for project proposal to showcase with a medium of choice.",
+            "title": "Workshop: Part D - What can we DO next to get to where we want to be?",
+            "time": "10:30 AM",
+            "description": "Group work to identify resources and brainstorm for project proposal to showcase with a medium of each groups choice.",
             "color": "#F2695D"
         },
         {
@@ -208,9 +205,9 @@
             "color": "#FBD166"
         },
         {
-            "title": "What can DO next? Part 2 - Finalize",
+            "title": "Workshop: Part D - Project Development",
             "time": "1:30 PM",
-            "description": "Finalize your proposals and create your pitches with help from mentors.",
+            "description": "With mentors, groups will fine tune their proposals, create their pitch and practice.",
             "color": "#F2695D"
         },
         {
@@ -219,27 +216,34 @@
             "color": "#FBD166"
         },
         {
-            "title": "LinkedIn Spotlight",
+            "title": "Continuation of project development and Shortlisting",
             "time": "3:45 PM",
-            "speaker": "w/ LinkedIn Staff",
-            "description": "TBD.",
-            "color": "#B8D98D"
+            "description": "Groups will continue working on their pitch and there will be voting to shortlist the teams moving to the next stage.",
+            "color": "#F2695D"
         },
         {
             "title": "Pitch Competition",
-            "time": "4:30 PM",
-            "description": "Each team will present their pitch through a science fair model or to an expert panel.",
-            "color": "#F2695D"
+            "time": "5:00 PM",
+            "speaker":"TBA",
+            "description": "5-6 shortlisted teams will present their pitch either through a fair model or to an expert panel that provides feedback.",
+            "color": "#B8D98D"
         },
         {
-            "title": "Winning Projects",
-            "time": "6:15 PM",
-            "description": "The winning projects will be announced.",
-            "color": "#F2695D"
+            "title": "Talks",
+            "time": "6:00 PMgi",
+            "speaker":"TBA",
+            "description": "Brief talks featuring Minister Bailey, RBC, and LinkedIn panel.",
+            "color": "#B8D98D"
         },
         {
-            "title": "Dinner Celebration",
-            "time": "7:00 PM",
+            "title": "Dinner",
+            "time": "6:45 PM",
+            "description": "Catered Dinner .",
+            "color": "#FBD166"
+        },
+        {
+            "title": "Micro-grant Winners Announced + Celebration",
+            "time": "7:45 PM",
             "color": "#FBD166"
         }
     ]
