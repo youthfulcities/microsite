@@ -47,7 +47,7 @@ const theme = () =>
             },
             h3: {
                 fontFamily: 'Gotham Narrow Medium',
-                fontSize: 18,
+                fontSize: 40,
             },
             h4: {
                 fontFamily: 'Gotham Narrow Light',
@@ -55,7 +55,7 @@ const theme = () =>
                 textTransform: 'uppercase',
             },
             h5: {
-                fontFamily: 'adelle',
+                fontFamily: 'Gotham Narrow Medium',
                 fontWeight: 600,
                 fontStyle: 'normal',
                 fontSize: 24,

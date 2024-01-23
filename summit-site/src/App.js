@@ -1,28 +1,30 @@
+import { BrowserRouter as Router } from 'react-router-dom'
 import { ThemeProvider } from '@mui/material'
 import React from 'react'
 import './App.css'
-import Header from './Header'
-import MainSection from './MainSection'
-import Titles from './Titles'
-import muiTheme from './muiTheme'
+import Header from './components/Header'
+import muiTheme from './Themes/muiTheme'
+import RightDrawer from './components/RightDrawer'
+import AppRouter from './Router' // Import the router component
 
 const App = () => {
     const theme = muiTheme()
-
     const appStyle = {
         backgroundColor: '#253D88',
         color: '#fff',
-        minHeight: '100vh', // Ensures the content takes at least the height of the viewport
+        minHeight: '100vh',
         overflow: 'hidden',
     }
 
     return (
         <ThemeProvider theme={theme}>
-            <div width="100%" style={appStyle}>
-                <Header />
-                <Titles />
-                <MainSection />
-            </div>
+            <Router>
+                <div width="100%" style={appStyle}>
+                    <Header />
+                    <RightDrawer />
+                    <AppRouter />
+                </div>
+            </Router>
         </ThemeProvider>
     )
 }

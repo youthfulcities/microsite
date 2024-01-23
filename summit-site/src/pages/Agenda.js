@@ -2,9 +2,9 @@ import { Box, Button, Card, Grid, Typography } from '@mui/material'
 import React, { useRef, useState } from 'react'
 import SwipeableViews from 'react-swipeable-views-react-18-fix'
 import { v4 as uuidv4 } from 'uuid'
-import cardSets from './MainSectionContent.json'
+import cardSets from '../data/AgendaData.json'
 
-const MainSection = () => {
+const Agenda = () => {
     const [step, setStep] = useState(0)
 
     const ref = useRef(null)
@@ -24,6 +24,14 @@ const MainSection = () => {
 
     return (
         <Box>
+            <div style={{ margin: '20px' }}>
+                <Typography variant="subtitle1" gutterBottom>
+                    VANCOUVER URBAN WORK SUMMIT
+                </Typography>
+                <Typography variant="h3" gutterBottom>
+                    AGENDA
+                </Typography>
+            </div>
             <Box display="flex" justifyContent="space-around" my={3} mx={2}>
                 <Button
                     variant="contained"
@@ -71,7 +79,7 @@ const MainSection = () => {
                     <Box
                         key={uuidv4()}
                         overflow="auto"
-                        sx={{ maxHeight: '66vh' }}
+                        sx={{ maxHeight: '70vh' }}
                     >
                         <Grid
                             ref={ref}
@@ -134,4 +142,4 @@ const MainSection = () => {
     )
 }
 
-export default MainSection
+export default Agenda
