@@ -50,32 +50,20 @@ const RightDrawer = () => {
                         />
                     </Button>
                 </ListItem>
-                <ListItem style={{ justifyContent: 'flex-end' }} key="Guests">
+                <ListItem style={{ justifyContent: 'flex-end' }} key="People">
                     <Button
                         component={Link}
-                        to="/guests"
+                        to="/people"
                         style={{ justifyContent: 'flex-end', width: '100%' }}
                     >
                         <ListItemText
-                            primary="Guests"
+                            primary="People"
                             primaryTypographyProps={{ fontSize: '40px' }}
                             style={{ textAlign: 'right', color: 'black' }}
                         />
                     </Button>
                 </ListItem>
-                <ListItem style={{ justifyContent: 'flex-end' }} key="Contact">
-                    <Button
-                        component={Link}
-                        to="/contact"
-                        style={{ justifyContent: 'flex-end', width: '100%' }}
-                    >
-                        <ListItemText
-                            primary="Contact"
-                            primaryTypographyProps={{ fontSize: '40px' }}
-                            style={{ textAlign: 'right', color: 'black' }}
-                        />
-                    </Button>
-                </ListItem>
+                
             </List>
         </div>
     )

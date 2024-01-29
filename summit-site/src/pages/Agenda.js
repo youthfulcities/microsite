@@ -79,7 +79,7 @@ const Agenda = () => {
                     <Box
                         key={uuidv4()}
                         overflow="auto"
-                        sx={{ maxHeight: '70vh' }}
+                        sx={{ maxHeight: '60vh' }}
                     >
                         <Grid
                             ref={ref}

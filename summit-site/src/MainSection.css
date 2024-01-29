@@ -1,0 +1,19 @@
+.date-button {
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .date-button.active {
+    background-color: #F2695D !important;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+  }
+  
+  .slider-container {
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  
