@@ -32,6 +32,14 @@
         "Website": "https://vancouvereconomic.com/"
     },
     {
+        "name": "Claris Canta",
+        "title": "Program Director, Student Energy",
+        "bio": "An energy professional enthusiastic in working on project development and management of environmental, renewable energy, and energy efficiency projects. Received a Master's Degree in Energy Systems from the University of Melbourne. Keen on developing and working on smarter energy solutions and sustainability projects that can address the triple bottom line.",
+        "image": "claris.jpg",
+        "Linkedin": "https://ca.linkedin.com/in/clariscanta",
+        "Website": "https://studentenergy.org/"
+    },
+    {
         "name": "Sylvian Celaire",
         "title": "Director of Business Development, MODO",
         "bio": "Sylvain assists Modo to grow its reach and anchor itself in communities through collaborations with municipal governments, property owners, and businesses. He believes that disrupting automobile dependency through people-centred communities is key to Modo’s success.",
@@ -81,7 +89,7 @@
     },
     {
         "name": "Benjamin Hagwood",
-        "title": "Communication Professional with a Passion for Cultural Curricular Design, Deliberation and Debate",
+        "title": "Director, Vancouver Debate Academy and Ethos Lab",
         "bio": "Benjamin Hagwood, a true advocate for education, discovered his passion for speech and debate during his college years. This journey from a curious student to an inspiring educator saw Benjamin embracing the art of argumentation and advocacy, leading him to teach and coach at various levels, including college, secondary, and primary schools. Since relocating to British Columbia, Benjamin's active community engagement and consistent competitive success have earned him national recognition. As an Assistant Director of Debate at Liberty University, he led his team to an impressive seven national titles. His transition from college to high school coaching did not diminish his winning streak; under his guidance, teams triumphed at prestigious national tournaments such as the Stanford Invitational, Harvard Invitational, Georgetown Invitational, and Western JV/Novice Nationals. Benjamin's dedication to his students was highlighted during a segment on “On the Coast with Gloria Macarenko,” where Gloria commended, “Benjamin, you are doing great work, and it's clear that you care about your students and have trained them well.” His commitment to excellence was further showcased in the Vancouver Sun, where he confidently stated, “When it comes to tournaments, I expect to win.” This winning mindset stems from his belief in focusing on the intricate details of his students' development, earning him the affectionate title of “Ben’s Learners” from those he mentors.",
         "image": "benjamin.jpg",
         "Linkedin": "https://www.linkedin.com/in/bhagwood/?originalSubdomain=ca",
@@ -144,6 +152,22 @@
         "Website": ""
     },
     {
+        "name": "Joanne Nellas",
+        "title": "Programs Manager, CityHive",
+        "bio": "Joanne is committed to uplifting the voices of underrepresented groups through meaningful, inclusive and intentional engagement. She strives for an equitable and just city where all people feel empowered and equipped to lead positive changes in their communities. Joanne has a Masters in Community and Regional Planning from UBC with a concentrated focus on planning for equity-seeking communities, and a Bachelors in Environment from SFU. Merging her two passions and knowledge, Joanne feels most energized when working within the intersection of climate action and the needs and interests of marginalized communities. She has worked on engagement projects and research with various organizations on municipality-level climate justice, urban and rural Indigenous housing, homelessness action, equitable transportation, civic engagement for racialized groups, and more. To recharge, Joanne loves being a tourist in her own city, volunteering, and trying new things.",
+        "image": "joanne.jpg",
+        "Linkedin": "https://ca.linkedin.com/in/joannenellas",
+        "Website": "https://cityhive.ca/"
+    },
+    {
+        "name": "Vishan Persaud",
+        "title": "Director, Citizenship Content & Activations at RBC",
+        "bio": "",
+        "image": "vishan.jpg",
+        "Linkedin": "https://www.linkedin.com/in/vishan-persaud-28299121/",
+        "Website": "https://www.rbc.com/en/future-launch/"
+    },
+    {
         "name": "Meridith Sones",
         "title": "Manager, Knowledge Mobilization, SFU",
         "bio": "A current PhD candidate, Meridith holds a Master of Public Health degree from the University of Waterloo and a Honours Bachelor of Kinesiology degree from McMaster University. In partnership with cities and citizens, her research explores the impact of urban change on social connectedness, health and wellbeing. Meridith is also a knowledge translation strategist and science communicator with over a decade of experience helping research and policy organizations maximize the reach and impact of their work.",
@@ -166,7 +190,16 @@
         "image": "andrew.jpg",
         "Linkedin": "https://www.linkedin.com/in/andrewgwilliamson/?originalSubdomain=ca",
         "Website": "https://vancouvereconomic.com/about/staff/andrew-williamson/"
+    },
+    {
+        "name": "Abeer Yusuf",
+        "title": "Grants Coordinator, Vancouver Foundation",
+        "bio": "",
+        "image": "abeer.jpg",
+        "Linkedin": "https://www.linkedin.com/in/abeeryusuf/?originalSubdomain=ca",
+        "Website": ""
     }
+
 
 
 
