@@ -12,7 +12,7 @@ import {
 
 import LinkedInIcon from '@mui/icons-material/LinkedIn'
 import LinkIcon from '@mui/icons-material/Link'
-import KeyboardArrowDownSharpIcon from '@mui/icons-material/KeyboardArrowDownSharp';
+import KeyboardArrowDownSharpIcon from '@mui/icons-material/KeyboardArrowDownSharp'
 import PeopleData from '../data/PeopleData.json'
 
 const Guests = () => {
@@ -28,7 +28,7 @@ const Guests = () => {
         <Box>
             <div style={{ margin: '20px' }}>
                 <Typography variant="subtitle1" gutterBottom>
-                    VANCOUVER URBAN WORK SUMMIT
+                    CALGARY URBAN WORK SUMMIT
                 </Typography>
                 <Typography variant="h3" gutterBottom>
                     People
@@ -96,7 +96,7 @@ const Guests = () => {
                                             handleExpandClick(guest.name)
                                         }
                                     >
-                                        <KeyboardArrowDownSharpIcon fontSize='large' />
+                                        <KeyboardArrowDownSharpIcon fontSize="large" />
                                     </IconButton>
                                 </Box>
                             </CardContent>

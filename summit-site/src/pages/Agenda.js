@@ -26,7 +26,7 @@ const Agenda = () => {
         <Box>
             <div style={{ margin: '20px' }}>
                 <Typography variant="subtitle1" gutterBottom>
-                    VANCOUVER URBAN WORK SUMMIT
+                    CALGARY URBAN WORK SUMMIT
                 </Typography>
                 <Typography variant="h3" gutterBottom>
                     AGENDA
@@ -42,7 +42,7 @@ const Agenda = () => {
                         boxShadow: 'none',
                     }}
                 >
-                    JAN 30
+                    FEB 20
                 </Button>
                 <Button
                     variant="contained"
@@ -53,18 +53,7 @@ const Agenda = () => {
                         boxShadow: 'none',
                     }}
                 >
-                    JAN 31
-                </Button>
-                <Button
-                    variant="contained"
-                    onClick={() => handleButtonClick(2)}
-                    style={{
-                        backgroundColor: step === 2 ? '#F2695D' : '#253D88',
-                        outline: 'none',
-                        boxShadow: 'none',
-                    }}
-                >
-                    FEB 1
+                    FEB 21
                 </Button>
             </Box>
             <SwipeableViews
