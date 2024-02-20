@@ -42,7 +42,7 @@ const Agenda = () => {
                         boxShadow: 'none',
                     }}
                 >
-                    FEB 20
+                    FEB 21
                 </Button>
                 <Button
                     variant="contained"
@@ -53,7 +53,7 @@ const Agenda = () => {
                         boxShadow: 'none',
                     }}
                 >
-                    FEB 21
+                    FEB 22
                 </Button>
             </Box>
             <SwipeableViews
