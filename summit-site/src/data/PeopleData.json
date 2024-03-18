@@ -1,43 +1,11 @@
 [   
     {
-        "name": "Umair Pervez",
-        "title": "Management Consultant, PwC",
-        "bio": "Umair is a management consultant and globally renowned expert in the Future of Work whose insights are highly sought after by top executives and government officials. Umair specializes in assisting organizations in embracing change and capitalizing on growth opportunities amidst transformative forces like automation, AI, remote work, and the changing needs of employees.",
-        "image": "umair.jpg",
+        "name": "Gaëlle Douët",
+        "title": "Conseillère en planification Ville de Montréal",
+        "bio": "Après avoir complété une maîtrise en science politique à l’UQAM, Gaëlle a intégré Affaires mondiales Canada en 2009 en tant qu’agente de gestion et des affaires consulaires. Elle a effectué une affectation de 4 ans en Haïti, suivie d’une affectation de 2 ans au Kenya. En 2021, elle rejoint la Chambre de commerce du Montréal métropolitain pour œuvrer au déploiement de Classes Affaires, un programme d’exploration de carrières pour la jeune relève. Aujourd’hui conseillère en planification au Bureau d’intégration des nouveaux arrivants à Montréal (BINAM), à la Ville de Montréal, elle est responsable de l’initiative Montréal inclusive au travail, qui regroupe plusieurs projets pour l’intégration professionnelle des personnes immigrantes",
+        "image": "gaelle.jpg",
         "Linkedin": "https://ca.linkedin.com/in/umairpervez",
         "Website": "https://www.pwc.com/ca/en/"
-    },
-    {
-        "name": "Jeny Mathews-Thusoo",
-        "title": "Program Lead of Resilience & Futures at The City of Calgary",
-        "bio": "Jeny Mathews-Thusoo (she/her) is a proud second-generation Malayalee woman with a vision that the future of cities belongs to the those who believe in the power of dreams. With over 20 years advocating for positive social change, she currently works as a Program Lead of Resilience & Futures at The City of Calgary. There she strives to democratize the future by inspiring communities and partners to collectively imagine possibilities of liberated and equitable futures in trust and governance. Jeny is also an instructor with the University of Calgary, Faculty of Social Work teaching advanced policy practice with a lens of social innovation. She feels blessed to have her supportive spouse, Shivi, and her two daughters, Avaani and Daya, stick by her on her journey to making change.",
-        "image": "jeny.jpg",
-        "Linkedin": "https://ca.linkedin.com/in/jenymathewsthusoo",
-        "Website": "https://www.calgary.ca/home.html"
-    },
-    {
-        "name": "Alice Lam",
-        "title": "Founder // Co-Founder, Volley + Caremyway // Calgary community Fridge, Good Neighbor, Tigerstedt",
-        "bio": "Alice Lam is an avid volunteer and non profit starter in Calgary. She works in real estate for her day job but her passion is in using creative ways to help Calgarians access the supports they need to live dignified lives and thrive in this city. She is the founder of volly, a website turned social enterprise incubator, the Calgary community fridge, good neighbour pay what you want thrift store, ren community acupuncture clinic,  care my way, a healthcare literacy website and for the past two years has programmed fun community events at the historic firehall courtyard. When she’s not volunteering she’s talking about it and trying to convince other people to find rays to get involved to build a better city.",
-        "image": "alice.jpg",
-        "Linkedin": "https://ca.linkedin.com/in/alice-lam-71796238",
-        "Website": "https://alicelam.org/"
-    },
-    {
-        "name": "Gerald Ratt",
-        "title": "Specialist, Indigenous Intercultural Initiatives, University of Calgary",
-        "bio": "Gerald is a child of a survivor of Indian Residential School, Woodland Cree, Two-Spirit, and is a member of the Lac La Ronge First Nation in Treaty 6 Territory. Gerald has been gifted the traditional names ai'ssoo (ah-soo-woo, meaning warrior) and waaseyaagiizhig (wah-suh-gee-jiik, meaning bright shiny sky). Gerald’s cultural identity is a strength and Gerald was the first in family to complete a bachelor’s degree from the University of Saskatchewan and has recently completed a master’s degree from the Royal Roads University. Gerald currently works as the Indigenous Intercultural Initiatives Specialist with the Office of Indigenous Engagement at the University of Calgary and has spent 17 years working in the areas of justice, child and youth care, youth leadership, student services, and education. Gerald is dedicated to working towards reconciliACTION in education for students, staff, and faculty through meaningful relationships, cultural humility, and achieving cultural safety. Gerald loves to travel and has lived and worked in Mexico, Ukraine, and Peru. As a lifelong learner, Gerald continues to open himself up to new experiences, knowledge, and challenges",
-        "image": "gerald.jpg",
-        "Linkedin": "https://www.linkedin.com/in/gerald-ratt-ba-ma-929710117/?originalSubdomain=ca",
-        "Website": "https://www.ucalgary.ca/indigenous/connect/indigenous-engagement-team"
-    },
-    {
-        "name": "Tyson Bankert",
-        "title": "Founder, Recess Calgary",
-        "bio": "Tyson (he/him)  is a community developer; his personal slogan is to edify others, befriend the lonely and promote justice! Tyson is grateful to have his vocation match his values and able to bring people together through the art of facilitation. Tyson has had the delight of being part of several community initiatives on Treaty 7, whether that's through increasing public participation or organizational change process' and art. A self-proclaimed troublemaker, his intention is to build communities to share power and make change.  Tyson co-leads the network CDLI - Community Development Learning Initiative and Founder of Recess Calgary.",
-        "image": "tyson.jpg",
-        "Linkedin": "https://ca.linkedin.com/in/tyson-bankert-41a83b33",
-        "Website": "https://www.recesscalgary.ca/"
     }
-
+   
 ]

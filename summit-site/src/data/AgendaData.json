@@ -1,138 +1,122 @@
 [
     [
         {
-            "title": "Check-In",
-            "time": "8:15 AM",
-            "description": "Register and pick up your badge and sign up for 1 of 6 topics",
-            "color": "#F6D9D7"
-        },
-        {
-            "title": "Land Acknowledgement and Introduction to the summit",
-            "time": "9:00 AM",
-            "description": "Land acknowledgement and overview of the Summit program.",
-            "color": "#F6D9D7"
-        },
-        {
-            "title": "Energizer + Break",
-            "time": "10:00 AM",
-            "description": "Speed Bingo",
+            "title": "Arrivées",
+            "time": "9h45",
             "color": "#FBD166"
         },
         {
-            "title": "Introduction to Breakout Session",
-            "time": "10:30 AM",
-            "description": "Challenges and Futures",
+            "title": "Présentation de bienvenue",
+            "time": "10h",
+            "description": "Reconnaissance du territoire et Présentation de la programmation",
             "color": "#F2695D"
         },
         {
-            "title": "Breakout Session",
-            "time": "11:00 AM",
-            "description": "Challenges and Futures",
+            "title": "Panel",
+            "time": "10h30",
+            "description": "Panel Provocateur : discussion avec des panélistes spécialisés + Q&R",
             "color": "#F2695D"
         },
         {
-            "title": "Lunch",
-            "time": "12:30 PM",
+            "title": "Brise Glace et Pause-café",
+            "time": "11h30",
             "color": "#FBD166"
         },
         {
-            "title": "The Future of Work Panel",
-            "time": "1:45 PM",
-            "description": "Provocateur Panel: discussion with panelists with expertise around the 5 main dimensions of work + Q&A",
-            "color": "#F2695D"
+            "title": "Atelier : Partie A - Où en sommes-nous aujourd'hui ? Partie B-Où voulons-nous être ?",
+            "time": "12h00",
+            "description": "Atelier: travail de groupe utilisant les informations du panel, les données et les ressources fournies pour définir les défis et les visions du futur par rapport à la jeune main-d'œuvre de Montréal",
+            "color": "#f6d9d7"
         },
         {
-            "title": "Buffer Break",
-            "time": "2:45 PM",
-            "description": "Network with Panel + Grab Snacks",
+            "title": "Déjeuner",
+            "time": "13h30",
             "color": "#FBD166"
         },
         {
-            "title": "Energizer",
-            "time": "3:00 PM",
+            "title": "Parties A+B",
+            "time": "14h45",
+            "description": "Présentations",
+            "color": "#f6d9d7"
+        },
+        {
+            "title": "Pause-café",
+            "time": "15h30",
             "color": "#FBD166"
         },
         {
-            "title": "Creative Jam Session",
-            "time": "3:15 PM",
-            "color": "#F2695D"
+            "title": "Atelier: Partie C-Que devons-nous créer ?",
+            "time": "15h45",
+            "color": "#f6d9d7"
         },
         {
-            "title": "Buffer Time + Regroup",
-            "time": "4:30 PM",
-            "description": "Float into post it notes session",
-            "color": "#F2695D"
-        },
-        {
-            "title": "Closing Remarks - Wrap Up",
-            "time": "4:45 PM",
-            "description": "Note Clustering + Intro to Day2",
-            "color": "#F2695D"
-        }
-        
+            "title": "Conclusion de la journée",
+            "time": "16h45",
+            "color": "#b8d9bd"
+        } 
     ],
     [
         {
-            "title": "Check-In",
-            "time": "8:15 AM",
-            "description": "Registration Time",
+            "title": "Arrivées",
+            "time": "9h",
+            "color": "#fbd166"
+        },
+        {
+            "title": "Aperçu des objectifs de la journée 2",
+            "time": "9:15",
+        
+            "color": "#F2695D"
+        },
+        {
+            "title": "Enquête sur le sujet",
+            "time": "9h30",
+            "description": "À l'aide du YC chatbot et d'une recherche sur le web, les participants recherchent des informations pertinentes pour leur idée",
+            "color": "#f6d9d7"
+        },
+        {
+            "title": "Brise Glace et Pause-café",
+            "time": "10h30",
+            "color": "#FBD166"
+        },
+        {
+            "title": "Conversation",
+            "time": "11h00",
+            "description": "TUne conversation avec Myriam Nouri (Conseillère stratégique, innovation sociale) sur les opportunités et les ressources disponibles à Montréal et au Québec",
+            "color": "#f6d9d7"
+        },
+        {
+            "title": "Atelier de conception",
+            "time": "11h30",
+            "description": "Les groupes vont affiner l'idée sur laquelle ils veulent se concentrer et vont commencer à travailler avec des mentors",
+            "color": "#f6d9d7"
+        },
+        {
+            "title": "Déjeuner",
+            "time": "12h",
+            "color": "#FBD166"
+        },
+        {
+            "title": "Atelier: Partie D - Que pouvons-nous faire pour atteindre nos ambitions ?",
+            "time": "13h15",
+            "description": "Avec le support des mentors, les groupes identifient les besoins, les ressources, les communautés qu'ils ciblent, les menaces et les opportunités. Les groupes vont  affiner leurs propositions de projets",
+            "color": "#f6d9d7"
+        },
+        {
+            "title": "Pause-café",
+            "time": "15h15",
+            "color": "#FBD166"
+        },
+        {
+            "title": "Présentations de groupes",
+            "time": "15h30",
+            "description": "Les groupes présenteront leurs idées initiales à l'ensemble du groupe et obtiendront du feedback et des conseils",
             "color": "#F6D9D7"
         },
         {
-            "title": "Day 2 Overview",
-            "time": "9:00 AM",
-            "description": "Introducing Jeny Mathews-Thusoo (she/her), Program Lead of Resilience & Futures at The City of Calgary",
-            "color": "#F6D9D7"
-        },
-        {
-            "title": "Future of work & skills development talk",
-            "time": "9:15 AM",
-            "color": "#F2695D"
-        },
-        {
-            "title": "Explore Idea Clusters",
-            "description": "Explore Different Topics and Clusters From Day 1",
-            "time": "9:45 AM",
-            "color": "#FBD166"
-        },
-        {
-            "title": "Coffee Break",
-            "time": "10:30 AM",
-            "color": "#FBD166"
-        },
-        {
-            "title": "Creative Jam Session",
-            "time": "10:45 AM",
-            "description": "The What, Why, Who and How",
-            "color": "#F2695D"
-        },
-        {
-            "title": "Lunch",
-            "time": "12:30 PM",
-            "color": "#FBD166"
-        },
-        {
-            "title": "Floating Mentors",
-            "time": "1:30 PM",
-            "description": "Each team will get 30 minutes with 2 mentors",
-            "color": "#F2695D"
-        },
-        {
-            "title": "Energizer + Break",
-            "time": "3:45 PM",
-            "color": "#FBD166"
-        },
-        {
-            "title": "Presentations",
-            "time": "4:00 PM",
-            "description": "5 Minutes per team to present and share their idea",
-            "color": "#F2695D"
-        },
-        {
-            "title": "End of Day 2 + Closing Remarks",
-            "time": "5:00 PM",
-            "description": "Closing of the summit + future opportunities",
-            "color": "#F6D9D7"
+            "title": "Conclusion de la journée",
+            "time": "16h30",
+            "description": "Prochaines étapes et mise en réseau",
+            "color": "#b8d9bd"
         }
     ]
     

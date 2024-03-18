@@ -26,10 +26,10 @@ const Agenda = () => {
         <Box>
             <div style={{ margin: '20px' }}>
                 <Typography variant="subtitle1" gutterBottom>
-                    CALGARY URBAN WORK SUMMIT
+                    Sommet sur le travail urbain Montréal
                 </Typography>
                 <Typography variant="h3" gutterBottom>
-                    AGENDA
+                    Agenda
                 </Typography>
             </div>
             <Box display="flex" justifyContent="space-around" my={3} mx={2}>
@@ -42,7 +42,7 @@ const Agenda = () => {
                         boxShadow: 'none',
                     }}
                 >
-                    FEB 21
+                    27 Mars
                 </Button>
                 <Button
                     variant="contained"
@@ -53,7 +53,7 @@ const Agenda = () => {
                         boxShadow: 'none',
                     }}
                 >
-                    FEB 22
+                    28 Mars
                 </Button>
             </Box>
             <SwipeableViews
