@@ -28,10 +28,10 @@ const Guests = () => {
         <Box>
             <div style={{ margin: '20px' }}>
                 <Typography variant="subtitle1" gutterBottom>
-                    CALGARY URBAN WORK SUMMIT
+                    Sommet sur le travail urbain Montréal
                 </Typography>
                 <Typography variant="h3" gutterBottom>
-                    People
+                    Intervenant(e)s
                 </Typography>
             </div>
             <div style={{ maxHeight: '72vh', overflowY: 'auto' }}>

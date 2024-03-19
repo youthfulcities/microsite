@@ -47,6 +47,7 @@
         {
             "title": "Atelier: Partie C-Que devons-nous créer ?",
             "time": "15h45",
+            "description": "Brainstorming collectif pour trouver des idées pertinentes par rapport aux défis identifiés, puis regroupement de ces idées",
             "color": "#f6d9d7"
         },
         {
@@ -63,8 +64,7 @@
         },
         {
             "title": "Aperçu des objectifs de la journée 2",
-            "time": "9:15",
-        
+            "time": "9h15",
             "color": "#F2695D"
         },
         {
@@ -81,7 +81,7 @@
         {
             "title": "Conversation",
             "time": "11h00",
-            "description": "TUne conversation avec Myriam Nouri (Conseillère stratégique, innovation sociale) sur les opportunités et les ressources disponibles à Montréal et au Québec",
+            "description": "Une conversation avec Myriam Nouri (Conseillère stratégique, innovation sociale) sur les opportunités et les ressources disponibles à Montréal et au Québec",
             "color": "#f6d9d7"
         },
         {
