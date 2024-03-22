@@ -5,7 +5,96 @@
         "bio": "Après avoir complété une maîtrise en science politique à l’UQAM, Gaëlle a intégré Affaires mondiales Canada en 2009 en tant qu’agente de gestion et des affaires consulaires. Elle a effectué une affectation de 4 ans en Haïti, suivie d’une affectation de 2 ans au Kenya. En 2021, elle rejoint la Chambre de commerce du Montréal métropolitain pour œuvrer au déploiement de Classes Affaires, un programme d’exploration de carrières pour la jeune relève. Aujourd’hui conseillère en planification au Bureau d’intégration des nouveaux arrivants à Montréal (BINAM), à la Ville de Montréal, elle est responsable de l’initiative Montréal inclusive au travail, qui regroupe plusieurs projets pour l’intégration professionnelle des personnes immigrantes",
         "image": "gaelle.jpg",
         "Linkedin": "https://www.linkedin.com/in/gaelledouet/?original_referer=https%3A%2F%2Fwww.google.com%2Fz",
-        "Website": "https://www.pwc.com/ca/en/"
+        "Website": ""
+    },
+    {
+        "name": "Lianna Della Vecchia",
+        "title": "Spécialiste pédagogique et coordinatrice du Laboratoire innovation sociale, Digital Moment",
+        "bio": "Lianna Della Vecchia est la spécialiste pédagogique et la coordinatrice du laboratoire d'innovation sociale de Digital Moment. Elle a obtenu une Maîtrise d’Arts en Éducation Internationale à l'Université d'Alcalá, à Madrid, en Espagne, et un Baccalauréat en Arts de Communication et Études Culturelles à l'Université Concordia de Montréal, au Canada. Elle est certifiée TEFL/TESOL et travaille dans l'industrie EdTech depuis 5 ans. Lianna est passionnée par la combinaison de l'innovation, de la culture et de l'éducation afin d'améliorer la citoyenneté numérique",
+        "image": "lianna.jpeg",
+        "Linkedin": "https://www.linkedin.com/in/liannadellavecchia",
+        "Website": ""
+    },
+    {
+        "name": "Lily Aniwaya",
+        "title": "Coordinatrice du programme d'éducation, Connected North",
+        "bio": "Lily Aniwaya est une coordinatrice engagée dans le travail communautaire depuis plusieurs années. Sa passion pour l'aide aux autres et son désir de faire une différence dans la vie des jeunes l'ont guidée tout au long de son parcours professionnel. Dès ses débuts, Lily a été attirée par le domaine de la pédiatrie, où elle a eu l'occasion d'interagir avec des enfants dans des contextes variés. Cette expérience lui a permis de comprendre les défis auxquels sont confrontés les jeunes dès leur plus jeune âge et l'a motivée à chercher des moyens d'améliorer leur bien-être",
+        "image": "lily.jpg",
+        "Linkedin": "https://ca.linkedin.com/in/lily-aniwaya-1253a71ab",
+        "Website": ""
+    },
+    {
+        "name": "Sihem Youbi",
+        "title": "Administratice, Jeunes en HLM (Le MOUV)",
+        "bio": "Je me présente, je me nomme Sihem Youbi et je m’engage dans divers projets, dont le Mouv, un organisme par et pour les jeunes en HLM à travers l’île de Montréal! La mission du Mouv est de représenter les jeunes entre 12 à 25 ans et de leurs offrir des opportunités et différents projets!",
+        "image": "",
+        "Linkedin": "",
+        "Website": ""
+    },
+    {
+        "name": "Anne Laurence Buteau",
+        "title": "Responsable du programme du Laboratoire d'innovation sociale pour les jeunes, Digital Moment",
+        "bio": "Forte de 10 ans d'expérience à soutenir des organismes publics, parapublics et des OBNL dans des projets d'envergure de renforcement de capacités, accompagnement stratégique et stratégie d'impact social. Anne Laurence cumule de multiples expériences en contexte international et multiculturel. Actuellement, elle occupe le poste de responsable du programme du Laboratoire d'innovation sociale pour les jeunes (le Lab), un programme axé sur l'apprentissage par la pratique de notions d'impact, de design thinking et de contenu digital tel que l'intelligence artificielle et le codage",
+        "image": "anne.jpg",
+        "Linkedin": "https://ca.linkedin.com/in/annelaurencebuteau",
+        "Website": ""
+    },
+    {
+        "name": "Myriam Nouri",
+        "title": "Conseillère stratégique, innovation sociale, Conseil de l’innovation du Québec",
+        "bio": "Diplômée en Anthropologie de l’Université Lumière Lyon 2, Myriam Nouri s’est spécialisée sur les questions de discrimination. Elle a rejoint l’équipe du Conseil de l’innovation dès le printemps 2021, et  a travaillé au sein de l’Institut de l’innovation sur les questions d’innovation sociale et de changements climatiques. En 2023, elle a rejoint la direction Innovation et transformation sociale du Conseil de l’innovation. Elle s’intéresse aux problématiques d’équité et d’inclusivité et s’implique pour que l’innovation sociale soit au cœur des réflexions et des stratégies pour un Québec plus innovant",
+        "image": "myriam.jpg",
+        "Linkedin": "https://ca.linkedin.com/in/myriam-nouri",
+        "Website": ""
+    },
+    {
+        "name": "Sarah Abarro",
+        "title": "Coordinatrice des programmes d’incubation, Maison de l’innovation sociale",
+        "bio": "Avec une maîtrise en gestion et une spécialisation en entrepreneuriat, Sarah a d’abord évolué dans le domaine de l’innovation sociale et de l’accompagnement de communautés d’entrepreneurs sociaux. Elle a ensuite travaillé sur des projets de mobilisation, aussi bien locaux que nationaux avant de rejoindre la MIS. Toujours à l’écoute et déterminée, Sarah sait identifier et mettre en lien les besoins et les forces de chacun pour mobiliser le plein potentiel de chacun et créer des collaborations efficaces et créatives",
+        "image": "saraha.jpg",
+        "Linkedin": "https://www.linkedin.com/in/sarah-abarro-62641891/?locale=en_US",
+        "Website": ""
+    },
+    {
+        "name": "Antoine-Samuel Mauffette Alavo",
+        "title": "Agent de liaison aux Affaires des étudiant·e·s noir·e·s, McGill University",
+        "bio": "(BA '07) s'est joint à l'équipe de l'équité en tant qu'agent de liaison pour les étudiants noirs. À ce titre, Antoine-Samuel est chargé d'établir des liens avec les étudiants noirs de McGill et de les soutenir afin de s'assurer que leurs besoins et leurs intérêts sont communiqués et qu'ils sont pris en compte de manière opportune et efficace. Antoine est titulaire d'une maîtrise en études internationales de l'Université de Montréal. Il a travaillé comme agent de liaison et agent d'études sur le terrain à la Faculté des arts et à la Faculté des sciences de l'Université McGill. Il a également travaillé comme coordonnateur pour la Maison des jeunes de Côte-des-Neiges. Antoine veut aider tous les étudiant.es noir.es à atteindre leur plein potentiel professionnel et académique et à se rapprocher de la communauté noire de Montréal",
+        "image": "antoine.jpg",
+        "Linkedin": "https://ca.linkedin.com/in/antoine-samuel-mauffette-alavo-abbb1329",
+        "Website": "https://www.mcgill.ca/equity/antoine-samuel-mauffette-alavo"
+    },
+    {
+        "name": "Sarah Armouch",
+        "title": "Directrice de la recherche et de l’innovation, Youthful Cities",
+        "bio": "Sarah est directrice de la recherche et de l'innovation à Youthful Cities. Elle supervise les activités de conception et de recherche de laboDEV et soutient les projets d'innovation locaux dans les villes du Canada. Sarah est titulaire d'un doctorat et d'une maîtrise en digital civics de l'université de Newcastle au Royaume-Uni et d'une maîtrise en santé publique de l'université américaine de Beyrouth. Elle a travaillé dans différents pays sur des projets liés au soutien des jeunes, à l'engagement civique, à l'innovation sociale, à la santé publique et au développement social, à la technologie civique, aux mouvements sociaux et à l'économie solidaire. En 2021, elle a été l'une des lauréates du prix 100 Tech Women au Royaume-Uni. En dehors de ses activités professionnelles, elle aime cuisiner, faire des randonnées occasionnelles et découvrir des cafés au cours de ses voyages",
+        "image": "sarahar.jpg",
+        "Linkedin": "https://ca.linkedin.com/in/sarah-armouch",
+        "Website": "https://www.youthfulcities.com/"
+    },
+    {
+        "name": "Dwight Best",
+        "title": "Président et DGE, Réseau ACSioN du Canada",
+        "bio": "Entrepreneur social aguerri et membre fondateur du Réseau ACSioN du Canada, Dwight forme depuis plus de 18 ans des équipes de leaders étudiants et jeunes professionnels afrodescendants. Passionné dès son jeune âge par le développement du leadership et l'avancement économique de la diaspora africaine, Dwight a approfondi ses compétences culturelles avec des études en sciences politiques et langue et culture modernes chinoises (Université Concordia et l'Université de Montréal). Dwight tire profit de ses expériences diversifiées - incluant 10 ans dans les services financiers - afin d'aider les organismes à bien relever les défis en matière d'environnement, société, et gouvernance",
+        "image": "dwight.jpg",
+        "Linkedin": "https://www.linkedin.com/in/dwight-best/",
+        "Website": "https://www.acsion.org/en/"
+    },
+    {
+        "name": "Kathleen Mulawka",
+        "title": "Conseillère en développement des communautés, Ministère des Finances du Québec (MFQ)",
+        "bio": "Originaire de l’Ontario, Kathleen a consacré les 14 dernières années au développement communautaire. La collaboration, l'engagement civique et la compréhension interculturelle sont au cœur de ses efforts professionnels. Kathleen a travaillé partout au Canada et à l’étranger. Elle travaille actuellement dans les relations linguistiques dans la fonction publique. Elle est titulaire d’un D.E.S.S en environnement et développement durable de l’Université de Montréal et d'un baccalauréat en géographie de l’Université Bishop’s",
+        "image": "kathleen.jpeg",
+        "Linkedin": "https://ca.linkedin.com/in/kathleenmulawka?original_referer=https%3A%2F%2Fwww.google.com%2F",
+        "Website": ""
+    },
+    {
+        "name": "Raphaël Guyard",
+        "title": "Conseiller, Maison de l’innovation sociale",
+        "bio": "Raphaël agit en tant que conseiller stratégique dans des projets voués à l’innovation collaborative, à l'entrepreneuriat social et à la transformation des récits culturels au sein de la Maison de l'innovation sociale. Il accompagne notamment des démarches de stratégie et de conception participatives, tant au niveau des aspects stratégiques et tactiques, que sur le terrain en facilitant des séances de travail collaboratif et de prototypage. Détenteur d'un baccalauréat en design de produits, d'une maîtrise de recherche en design, et ayant suivi des formations de créativité à HEC Montréal et à IDEO, Raphaël porte un intérêt au renforcement des capacités individuelles et collectives en milieu institutionnel",
+        "image": "raphael.jpg",
+        "Linkedin": "https://ca.linkedin.com/in/rapha%C3%ABl-guyard-50720b18b/en",
+        "Website": ""
     }
+
    
 ]
