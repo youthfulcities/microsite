@@ -88,13 +88,22 @@
         "Website": ""
     },
     {
-        "name": "Raphaël Guyard",
-        "title": "Conseiller, Maison de l’innovation sociale",
-        "bio": "Raphaël agit en tant que conseiller stratégique dans des projets voués à l’innovation collaborative, à l'entrepreneuriat social et à la transformation des récits culturels au sein de la Maison de l'innovation sociale. Il accompagne notamment des démarches de stratégie et de conception participatives, tant au niveau des aspects stratégiques et tactiques, que sur le terrain en facilitant des séances de travail collaboratif et de prototypage. Détenteur d'un baccalauréat en design de produits, d'une maîtrise de recherche en design, et ayant suivi des formations de créativité à HEC Montréal et à IDEO, Raphaël porte un intérêt au renforcement des capacités individuelles et collectives en milieu institutionnel",
-        "image": "raphael.jpg",
-        "Linkedin": "https://ca.linkedin.com/in/rapha%C3%ABl-guyard-50720b18b/en",
-        "Website": ""
+        "name": "Michael Lecchino",
+        "title": "Responsable des communications, Youth Diplomats of Canada",
+        "bio": "Michael Lecchino est un étudiant italo-canadien et un bénévole dévoué de Montréal, au Québec. Il est quadrilingue - il parle couramment l'anglais, le français, l'allemand et l'italien. Les passions de Michael varient de la conception de systèmes d'identité visuelle à l'exploration des grands espaces canadiens, où il prend plaisir à faire du snowboard, de la randonnée et du kayak. Michael est spécialiste des médias numériques à Parcs Canada, membre fondateur et président du Conseil jeunesse de LaSalle (CJL), responsable des communications aux Jeunes diplomates du Canada (JDC) et membre du conseil d'administration de la Fondation de l'Hôpital LaSalle. Michael a également représenté le Canada aux sommets de la jeunesse du G7 et du G20, respectivement en Allemagne et en Inde",
+        "image": "michael.jpg",
+        "Linkedin": "https://www.linkedin.com/in/michaellecchino/",
+        "Website": "https://www.youngdiplomats.ca/michael-lecchino"
+    },
+    {
+        "name": "Zhenai Xiao",
+        "title": "Conseillère en communications, Youth Diplomats of Canada",
+        "bio": "Zhenai Xiao est une professionnelle de la communication, des relations publiques et de la défense des droits, avec une formation en psychologie, originaire de Montréal (Québec). Elle est quadrilingue - elle parle couramment l'anglais, le français, le mandarin et l'espagnol. Sa passion pour l'établissement de relations et sa reconnaissance de l'importance d'une communication efficace, qu'elle a cultivée tout au long de son stage au Consulat général des États-Unis à Montréal dans la section de la diplomatie publique, l'ont récemment amenée à développer sa carrière professionnelle au Cameroun. Elle a travaillé avec le ministère de l'Emploi et de la Formation professionnelle (MINEFOP) sur le renforcement des capacités de communication stratégique dans le cadre des efforts d'aide au développement international du Canada. Avant de se spécialiser dans la communication, Zhenai était profondément attachée à l'étude de la psychologie. Cela l'a amenée à occuper de multiples postes de recherche et à participer bénévolement à de nombreux programmes de mentorat tels que les Centres de la jeunesse et de la famille Batshaw et le Bureau des étudiants avec un handicap (OSD) de l'Université McGill. Par sa participation à YDC, Zhenai vise à amplifier les voix diverses et unies de la jeunesse canadienne sur la scène internationale. Elle est convaincue que les gouvernements du monde entier cherchent à comprendre cette nouvelle génération de leaders et que ces jeunes devraient être soutenus de manière à leur permettre de partager leurs points de vue sur des sujets qui leur tiennent à cœur. Elle espère combler cette lacune en mettant à profit ses connaissances en communication et en psychologie pour contribuer aux initiatives lancées par YDC. Zhenai est titulaire d'une maîtrise en communications avec concentration en relations publiques de l'Université Laval et d'un baccalauréat en psychologie avec double mineure en sociologie et en sciences du comportement de l'Université McGill",
+        "image": "zhenai.jpg",
+        "Linkedin": "https://www.linkedin.com/in/zhenaixiao/",
+        "Website": "https://www.youngdiplomats.ca/zhenai-xiao"
     }
+
 
    
 ]
