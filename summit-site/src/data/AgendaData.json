@@ -1,123 +1,127 @@
 [
     [
         {
-            "title": "Arrivées",
-            "time": "9h45",
+            "title": "Check in",
+            "time": "9:00 - 9:15 am",
+            "color": "#B8D98D"
+        },
+        {
+            "title": "Land acknowledgment / housekeeping",
+            "time": "9:15 - 9:30 am",
+            "color": "#B8D98D"
+        },
+        {
+            "title": "Intro to summit",
+            "time": "9:30 - 10:00 am",
+            "color": "#B8D98D"
+        },
+        {
+            "title": "Icebreaker energizer + break",
+            "time": "10:00 am - 10:30 am",
             "color": "#FBD166"
         },
         {
-            "title": "Présentation de bienvenue",
-            "time": "10h",
-            "description": "Reconnaissance du territoire et Présentation de la programmation",
+            "title": "Introduction to topics + panel",
+            "time": "10:30 - 10:40 am",
             "color": "#F2695D"
         },
         {
-            "title": "Panel",
-            "time": "10h30",
-            "description": "Panel Provocateur : discussion avec des panélistes spécialisés + Q&R",
+            "title": "Future/Current State of Work panel",
+            "time": "11:30 am - 12:30 pm",
             "color": "#F2695D"
         },
         {
-            "title": "Brise Glace et Pause-café",
-            "time": "11h30",
+            "title": "Lunch",
+            "time": "12:30 - 1:45 pm",
             "color": "#FBD166"
         },
         {
-            "title": "Atelier : Partie A - Où en sommes-nous aujourd'hui ? Partie B-Où voulons-nous être ?",
-            "time": "12h00",
-            "description": "Atelier: travail de groupe utilisant les informations du panel, les données et les ressources fournies pour définir les défis et les visions du futur par rapport à la jeune main-d'œuvre de Montréal",
+            "title": "Intro to creative jam",
+            "time": "1:45 - 2:00 pm",
             "color": "#f6d9d7"
         },
         {
-            "title": "Déjeuner",
-            "time": "13h30",
+            "title": "Creative jam",
+            "time": "2:00 - 3:00 pm",
+            "color": "#f6d9d7"
+        },
+        {
+            "title": "Break",
+            "time": "3:00 - 3:15 pm",
             "color": "#FBD166"
         },
         {
-            "title": "Parties A+B",
-            "time": "14h45",
-            "description": "Présentations",
+            "title": "Energizer",
+            "time": "3:15 - 3:30 pm",
+            "color": "#B8D98D"
+        },
+        {
+            "title": "Idea clustering xxplanation",
+            "time": "3:30 - 4:00 pm",
             "color": "#f6d9d7"
         },
         {
-            "title": "Pause-café",
-            "time": "15h30",
-            "color": "#FBD166"
-        },
-        {
-            "title": "Atelier: Partie C-Que devons-nous créer ?",
-            "time": "15h45",
-            "description": "Brainstorming collectif pour trouver des idées pertinentes par rapport aux défis identifiés, puis regroupement de ces idées",
-            "color": "#f6d9d7"
-        },
-        {
-            "title": "Conclusion de la journée",
-            "time": "16h45",
-            "color": "#b8d9bd"
-        } 
+            "title": "Wrap Up",
+            "time": "4:00 - 4:15 pm",
+            "color": "#B8D98D"
+        }
     ],
     [
         {
-            "title": "Arrivées",
-            "time": "9h",
-            "color": "#fbd166"
+            "title": "Check in",
+            "time": "9:00 - 9:15 am",
+            "color": "#B8D98D"
         },
         {
-            "title": "Aperçu des objectifs de la journée 2",
-            "time": "9h15",
+            "title": "Open day 2",
+            "time": "9:15 - 9:30 am",
+            "color": "#B8D98D"
+        },
+        {
+            "title": "Keynote speaker",
+            "time": "9:30 - 10:00 am",
             "color": "#F2695D"
         },
         {
-            "title": "Enquête sur le sujet",
-            "time": "9h30",
-            "description": "À l'aide du YC chatbot et d'une recherche sur le web, les participants recherchent des informations pertinentes pour leur idée",
-            "color": "#f6d9d7"
+            "title": "Exploring idea clusters",
+            "time": "10:15 - 10:30 am",
+            "color": "#B8D98D"
         },
         {
-            "title": "Brise Glace et Pause-café",
-            "time": "10h30",
+            "title": "Coffee break + meet your team",
+            "time": "10:30 - 11:00 am",
+            "description": "Teams will take this time to grab coffee and snacks and choose their cluster.",
             "color": "#FBD166"
         },
         {
-            "title": "Conversation",
-            "time": "11h00",
-            "description": "Une conversation avec Myriam Nouri (Conseillère stratégique, innovation sociale) sur les opportunités et les ressources disponibles à Montréal et au Québec",
+            "title": "Breakout session: Early idea concepts",
+            "time": "11:15 am - 12:30 pm",
             "color": "#f6d9d7"
         },
         {
-            "title": "Atelier de conception",
-            "time": "11h30",
-            "description": "Les groupes vont affiner l'idée sur laquelle ils veulent se concentrer et vont commencer à travailler avec des mentors",
-            "color": "#f6d9d7"
-        },
-        {
-            "title": "Déjeuner",
-            "time": "12h",
+            "title": "Lunch",
+            "time": "12:30 - 1:30 pm",
             "color": "#FBD166"
         },
         {
-            "title": "Atelier: Partie D - Que pouvons-nous faire pour atteindre nos ambitions ?",
-            "time": "13h15",
-            "description": "Avec le support des mentors, les groupes identifient les besoins, les ressources, les communautés qu'ils ciblent, les menaces et les opportunités. Les groupes vont  affiner leurs propositions de projets",
+            "title": "Finalize ideas",
+            "time": "1:30 - 2:30 pm",
             "color": "#f6d9d7"
         },
         {
-            "title": "Pause-café",
-            "time": "15h15",
-            "color": "#FBD166"
+            "title": "Idea mentorship",
+            "time": "2:30 - 3:30 pm",
+            "color": "#f6d9d7"
         },
         {
-            "title": "Présentations de groupes",
-            "time": "15h30",
-            "description": "Les groupes présenteront leurs idées initiales à l'ensemble du groupe et obtiendront du feedback et des conseils",
-            "color": "#F6D9D7"
+            "title": "Presentations",
+            "time": "3:30 - 4:45 pm",
+            "color": "#f6d9d7"
         },
         {
-            "title": "Conclusion de la journée",
-            "time": "16h30",
-            "description": "Prochaines étapes et mise en réseau",
-            "color": "#b8d9bd"
+            "title": "Closing",
+            "time": "4:45 - 5:00 pm",
+            "color": "#B8D98D"
         }
     ]
-    
 ]
